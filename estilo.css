@@ -44,6 +44,7 @@ header h1
 	background-color: #93BFCF;
 	padding: 40px;
 	margin: 10px;
+	border-bottom: 10px solid #EEF1FF;
 }
 
 .article
@@ -63,6 +64,7 @@ aside
 	background-color: #BDCDD6;
 	padding: 10px;
 	margin: 10px;
+	border-bottom: 10px solid #EEF1FF;
 }
 
 footer
